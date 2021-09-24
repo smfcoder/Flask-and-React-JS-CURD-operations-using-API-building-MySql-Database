@@ -5,7 +5,9 @@ Softwares used :
 1) Anaconda - Flask, MysqlClient, SqlAlchemy, etc
 2) Node JS - React JS - React State Hooks
 3) XAMPP - Apache, MySql, Phpmyadmin
-Steps to run :
+
+# Steps to run :
+
 a) Backend 
 1) Create a new environment in Anaconda and install all the required libraries
 2) Copy all the files and run the command in terminal : python app.py
