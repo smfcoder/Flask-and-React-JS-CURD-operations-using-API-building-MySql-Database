@@ -1,0 +1,2 @@
+# Flask-and-React-JS-CURD-operations-using-API-building-MySql-Database
+Python Flask as a backend service to create API's and the data will be displayed on the frontend using React Js library. As our backend server and frontend is running on different ports so we wil be using the CORS library of flask to make the API accessible on different ports. Notifications in React using React - Toast, React Table V6 for displaying JSON data. CRUD operations using Flask API on the MySql database with the data fetching in frontend.
