@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+##Backend
+-------------------------------------------------------------------------------
+#create virtual environment in anaconda prompt
+
+command : conda create -n yourenvname python=x.x anaconda
+
+#install all the required libraries
+--------------------------------------------------------------------------------
+##Frontend
+--------------------------------------------------------------------------------
+#create a new react app
+
+command : npx create-react-app AppName
+
+
+
